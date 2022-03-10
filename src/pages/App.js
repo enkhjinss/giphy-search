@@ -1,8 +1,8 @@
 import '../styles/App.css';
-import Search from '../components/giphySearch';
+import GiphySearch from './giphySearch';
 
 function App() {
-  return <Search />
+  return <GiphySearch />
   
 }
 
