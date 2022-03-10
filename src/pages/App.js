@@ -1,10 +1,9 @@
-// import logo from './logo.svg';
 import '../styles/App.css';
+import Search from '../components/giphySearch';
 
 function App() {
-  return (
-    <h1>hyi</h1>
-  );
+  return <Search />
+  
 }
 
 export default App;
