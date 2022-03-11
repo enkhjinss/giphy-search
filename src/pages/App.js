@@ -1,9 +1,8 @@
-import '../styles/App.css';
-import GiphySearch from './giphySearch';
+import "../styles/App.css";
+import GiphySearch from "./giphySearch";
 
 function App() {
-  return <GiphySearch />
-  
+    return <GiphySearch />;
 }
 
 export default App;

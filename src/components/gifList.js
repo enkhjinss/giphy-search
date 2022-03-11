@@ -8,6 +8,6 @@ const GifList = () => {
         <div className="gifListContainer">
             <Gif />
         </div>
-    )
-}
+    );
+};
 export default GifList;
